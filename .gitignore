@@ -1,16 +1,16 @@
-# Compiled C++ binaries and object files
+# Compiled C++ binaries and object files....
 *.o
 *.obj
 *.exe
 *.out
 a.out
 
-# CMake and CLion build/IDE folders
+# clion, and IDE folder...
 build/
 cmake-build-*/
 .idea/
 
-# Random/temporary files you want to ignore
+#whatever i want custom files to ignore
 *.txt
 *.log
 temp/
